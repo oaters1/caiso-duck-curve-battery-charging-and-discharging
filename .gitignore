@@ -216,3 +216,30 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Raw CAISO data downloads
+data/raw/*
+!data/raw/.gitkeep
+
+# Processed data
+# Default: ignore processed data unless you decide it is small and clean enough to track.
+data/processed/*
+!data/processed/.gitkeep
+
+# Large compressed files
+*.zip
+*.gz
+*.7z
+*.tar
+
+# Temporary files
+*.tmp
+*.log
+
+# Excel lock files
+~$*.xlsx
+~$*.xls
