@@ -1,6 +1,7 @@
 # Battery Charging and Discharge in CAISO’s Spring Duck Curve
 
 This repository supports a short whitepaper comparing battery charging and discharge in CAISO’s spring duck curve from 2021–2025.
+This repository was a pedagogical exercise meant for me to learn GitHub and proper citation.
 
 ## Main question
 
